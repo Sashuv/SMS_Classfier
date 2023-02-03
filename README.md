@@ -7,7 +7,7 @@ Before fitting the data into the algorithm, I preprocessed the text using the __
 The text data was obtained from __Kaggle__, a popular online platform for machine learning and data science competitions.
 Preprocessing the text data improved the accuracy of the algorithm, as it helped to remove any irrelevant information and noise from the dataset.
 
-__Link to Kaggle Dataset:__  https://www.kaggle.com/uciml/sms-spam-collection-dataset
+__Link to the Kaggle Dataset:__  https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 
 For the frontend of the app, I used the __Streamlit__ library. __Streamlit__ is a modern, easy-to-use framework for building machine learning and data science applications. It allowed me to create a user-friendly interface for the app, making it accessible and usable by a wider audience.
